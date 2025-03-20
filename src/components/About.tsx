@@ -72,9 +72,9 @@ const About = () => {
               <div className="absolute -bottom-4 -right-4 w-24 h-24 bg-psycho-light rounded-full z-0"></div>
               <div className="relative z-10 rounded-2xl overflow-hidden shadow-lg bg-white p-2">
                 <img 
-                  src="https://unsplash.com/pt-br/fotografias/Qq6bEzaYcKo" 
+                  src="/lovable-uploads/ff94bf69-8cb6-4bd0-b92e-fa377be9af7e.png" 
                   alt="Natália Michelena, psicóloga em Santa Maria especializada em terapia psicanalítica" 
-                  className="w-full h-auto object-cover rounded-xl aspect-[4/5]"
+                  className="w-full h-auto object-cover rounded-xl aspect-[3/4]"
                   style={{ maxHeight: '600px' }} 
                 />
               </div>
