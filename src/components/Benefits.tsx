@@ -1,5 +1,5 @@
-
 import React, { useEffect, useRef } from 'react';
+import ContactButton from './ContactButton';
 
 const Benefits = () => {
   const sectionRef = useRef<HTMLDivElement>(null);
