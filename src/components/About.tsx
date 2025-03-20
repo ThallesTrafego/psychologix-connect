@@ -34,7 +34,7 @@ const About = () => {
               Sobre mim
             </span>
             <h2 className="text-3xl md:text-4xl font-display text-psycho-text mb-4">
-              Olá, sou Natalia Michelena
+              Olá, sou Natália Michelena
             </h2>
             <p className="text-psycho-text/80 mb-4">
               Psicóloga clínica formada pela Universidade Franciscana (UFN) de Santa Maria, desenvolvendo o atendimento de adultos e adolescentes.
@@ -62,7 +62,7 @@ const About = () => {
               text="Agendar Consulta" 
               variant="primary"
               size="md"
-              message="Olá Natalia, gostaria de agendar uma consulta!"
+              message="Olá Natália, gostaria de agendar uma consulta!"
             />
           </div>
           
@@ -72,8 +72,8 @@ const About = () => {
               <div className="absolute -bottom-4 -right-4 w-24 h-24 bg-psycho-light rounded-full z-0"></div>
               <div className="relative z-10 rounded-2xl overflow-hidden shadow-lg bg-white p-2">
                 <img 
-                  src="https://imgur.com/a/W8sXgtJ" 
-                  alt="Natalia Michelena, psicóloga em Santa Maria especializada em terapia psicanalítica" 
+                  src="https://unsplash.com/pt-br/fotografias/Qq6bEzaYcKo" 
+                  alt="Natália Michelena, psicóloga em Santa Maria especializada em terapia psicanalítica" 
                   className="w-full h-auto object-cover rounded-xl aspect-[4/5]"
                   style={{ maxHeight: '600px' }} 
                 />
