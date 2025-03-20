@@ -46,13 +46,13 @@ const Index = () => {
         <div className="container relative z-10">
           <div className="max-w-3xl mx-auto text-center">
             <span className="inline-block px-3 py-1 bg-white text-psycho-main rounded-full text-sm font-medium mb-4 reveal animate-fade-in">
-              Psicóloga em Santa Maria • Atendimento Online
+              Psicóloga em Santa Maria • Terapia Psicanalítica • Atendimento Online
             </span>
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-display text-psycho-text mb-6 reveal animate-slide-up">
-              Cuidando da sua saúde mental com empatia e profissionalismo
+              Cuide da sua saúde mental com uma abordagem psicanalítica
             </h1>
             <p className="text-lg md:text-xl text-psycho-text/80 mb-8 reveal animate-slide-up" style={{ transitionDelay: '100ms' }}>
-              Um espaço seguro para seu autoconhecimento e crescimento pessoal. Atendimento presencial em Santa Maria e online para todo o Brasil.
+              Um espaço seguro para seu autoconhecimento e crescimento pessoal. Atendimento psicológico psicanalítico presencial em Santa Maria e online para todo o Brasil.
             </p>
             <div className="flex flex-col sm:flex-row items-center justify-center gap-4 reveal animate-slide-up" style={{ transitionDelay: '200ms' }}>
               <ContactButton 
@@ -96,8 +96,8 @@ const Index = () => {
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 8h2a2 2 0 012 2v6a2 2 0 01-2 2h-2v4l-4-4H9a1.994 1.994 0 01-1.414-.586m0 0L11 14h4a2 2 0 002-2V6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2v4l.586-.586z" />
                   </svg>
                 </div>
-                <h3 className="text-lg font-medium text-psycho-text mb-1">Abordagem Personalizada</h3>
-                <p className="text-sm text-psycho-text/70">Tratamento adaptado às suas necessidades específicas.</p>
+                <h3 className="text-lg font-medium text-psycho-text mb-1">Abordagem Psicanalítica</h3>
+                <p className="text-sm text-psycho-text/70">Tratamento baseado na escuta atenta e no processo terapêutico personalizado.</p>
               </div>
             </div>
           </div>
@@ -122,7 +122,7 @@ const Index = () => {
                 Estou aqui para ajudar
               </h2>
               <p className="text-psycho-text/80 mb-8">
-                Entre em contato para agendar sua consulta ou esclarecer suas dúvidas sobre o processo terapêutico.
+                Entre em contato para agendar sua consulta ou esclarecer suas dúvidas sobre o processo terapêutico psicanalítico.
               </p>
               
               <div className="space-y-6 mb-8">
@@ -132,7 +132,7 @@ const Index = () => {
                   </div>
                   <div>
                     <h3 className="text-lg font-medium text-psycho-text mb-1">Endereço</h3>
-                    <p className="text-psycho-text/70">Rua dos Psicólogos, 123 - Centro<br />Santa Maria, RS - 97050-210</p>
+                    <p className="text-psycho-text/70">Rua dos Terapeutas, 789 - Centro<br />Santa Maria, RS - 97050-280</p>
                   </div>
                 </div>
                 
@@ -142,7 +142,7 @@ const Index = () => {
                   </div>
                   <div>
                     <h3 className="text-lg font-medium text-psycho-text mb-1">Telefone</h3>
-                    <p className="text-psycho-text/70">(55) 99999-9999</p>
+                    <p className="text-psycho-text/70">(55) 99999-8888</p>
                   </div>
                 </div>
                 
@@ -152,7 +152,7 @@ const Index = () => {
                   </div>
                   <div>
                     <h3 className="text-lg font-medium text-psycho-text mb-1">Email</h3>
-                    <p className="text-psycho-text/70">contato@psicologaanasilva.com.br</p>
+                    <p className="text-psycho-text/70">contato@nataliamichelena.com.br</p>
                   </div>
                 </div>
               </div>
@@ -162,6 +162,7 @@ const Index = () => {
                 variant="primary"
                 size="lg"
                 className="w-full sm:w-auto"
+                message="Olá Natalia, gostaria de agendar uma consulta para terapia psicanalítica!"
               />
             </div>
             
@@ -186,13 +187,13 @@ const Index = () => {
               <div className="bg-white p-6 rounded-xl">
                 <h4 className="text-lg font-medium text-psycho-text mb-3">Primeira consulta</h4>
                 <p className="text-psycho-text/80 mb-4">
-                  A primeira consulta tem duração aproximada de 50 minutos e serve para entendermos suas necessidades e estabelecermos um plano terapêutico adequado.
+                  A primeira consulta tem duração aproximada de 50 minutos e serve para iniciarmos o processo terapêutico psicanalítico, estabelecendo as bases para o tratamento.
                 </p>
                 <ContactButton 
                   text="Agendar primeira consulta" 
                   variant="secondary"
                   size="md"
-                  message="Olá, gostaria de agendar minha primeira consulta!"
+                  message="Olá Natalia, gostaria de agendar minha primeira consulta de terapia psicanalítica!"
                 />
               </div>
             </div>
@@ -205,7 +206,7 @@ const Index = () => {
         <div className="container">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <div className="mb-4 md:mb-0">
-              <p className="text-white/80 text-sm">© 2023 Dra. Ana Silva - CRP 07/12345</p>
+              <p className="text-white/80 text-sm">© 2023 Natalia Michelena - CRP 07/54321 - Psicóloga em Santa Maria - Terapia Psicanalítica</p>
             </div>
             <div className="flex gap-4">
               <a href="#" className="text-white/80 hover:text-white transition-colors">Política de Privacidade</a>
