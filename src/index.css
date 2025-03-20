@@ -1,5 +1,5 @@
 
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Playfair+Display:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&family=Playfair+Display:wght@400;500;600;700&display=swap');
 
 @tailwind base;
 @tailwind components;
@@ -7,33 +7,33 @@
 
 @layer base {
   :root {
-    --background: 210 33% 99%;
-    --foreground: 210 25% 15%;
+    --background: 0 0% 100%;
+    --foreground: 0 0% 12%;
 
     --card: 0 0% 100%;
-    --card-foreground: 210 25% 15%;
+    --card-foreground: 0 0% 12%;
 
     --popover: 0 0% 100%;
-    --popover-foreground: 210 25% 15%;
+    --popover-foreground: 0 0% 12%;
 
-    --primary: 210 60% 55%;
-    --primary-foreground: 210 33% 99%;
+    --primary: 18 55% 76%;
+    --primary-foreground: 0 0% 100%;
 
-    --secondary: 350 60% 94%;
-    --secondary-foreground: 350 25% 35%;
+    --secondary: 0 0% 49%;
+    --secondary-foreground: 0 0% 100%;
 
-    --muted: 210 15% 94%;
-    --muted-foreground: 210 25% 35%;
+    --muted: 0 0% 96%;
+    --muted-foreground: 0 0% 45%;
 
-    --accent: 210 15% 94%;
-    --accent-foreground: 210 25% 15%;
+    --accent: 18 40% 90%;
+    --accent-foreground: 0 0% 12%;
 
     --destructive: 0 84.2% 60.2%;
-    --destructive-foreground: 210 33% 99%;
+    --destructive-foreground: 0 0% 100%;
 
-    --border: 210 15% 90%;
-    --input: 210 15% 90%;
-    --ring: 210 60% 55%;
+    --border: 0 0% 90%;
+    --input: 0 0% 90%;
+    --ring: 18 55% 76%;
 
     --radius: 0.5rem;
 
@@ -48,33 +48,33 @@
   }
 
   .dark {
-    --background: 210 25% 10%;
-    --foreground: 210 33% 99%;
+    --background: 0 0% 12%;
+    --foreground: 0 0% 100%;
 
-    --card: 210 25% 15%;
-    --card-foreground: 210 33% 99%;
+    --card: 0 0% 15%;
+    --card-foreground: 0 0% 100%;
 
-    --popover: 210 25% 15%;
-    --popover-foreground: 210 33% 99%;
+    --popover: 0 0% 15%;
+    --popover-foreground: 0 0% 100%;
 
-    --primary: 210 60% 55%;
-    --primary-foreground: 210 33% 99%;
+    --primary: 18 55% 76%;
+    --primary-foreground: 0 0% 100%;
 
-    --secondary: 350 60% 40%;
-    --secondary-foreground: 210 33% 99%;
+    --secondary: 0 0% 49%;
+    --secondary-foreground: 0 0% 100%;
 
-    --muted: 210 25% 20%;
-    --muted-foreground: 210 25% 65%;
+    --muted: 0 0% 20%;
+    --muted-foreground: 0 0% 65%;
 
-    --accent: 210 25% 20%;
-    --accent-foreground: 210 33% 99%;
+    --accent: 18 30% 30%;
+    --accent-foreground: 0 0% 100%;
 
     --destructive: 0 62.8% 30.6%;
-    --destructive-foreground: 210 33% 99%;
+    --destructive-foreground: 0 0% 100%;
 
-    --border: 210 25% 20%;
-    --input: 210 25% 20%;
-    --ring: 210 60% 55%;
+    --border: 0 0% 20%;
+    --input: 0 0% 20%;
+    --ring: 18 55% 76%;
   }
 }
 

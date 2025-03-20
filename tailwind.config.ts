@@ -68,11 +68,12 @@ export default {
 					ring: 'hsl(var(--sidebar-ring))'
 				},
 				psycho: {
-					light: '#E5F1FB',
-					main: '#7EB7E0',
-					dark: '#3C7DA6',
-					accent: '#FBE5E7',
-					text: '#2A3747'
+					light: '#F8F5F3',
+					main: '#e6b39d',
+					dark: '#c69580',
+					accent: '#f1e1db',
+					text: '#1E1E1E',
+					gray: '#7d7d7d'
 				}
 			},
 			borderRadius: {
