@@ -32,8 +32,8 @@ const Services = () => {
       location: "Presencial em Santa Maria e Online"
     },
     {
-      title: "Terapia Cognitivo-Comportamental",
-      description: "Abordagem estruturada para identificar e modificar padrões de pensamento e comportamento.",
+      title: "Terapia Psicanalítica",
+      description: "Abordagem focada na compreensão do inconsciente, emoções e padrões de comportamento.",
       location: "Presencial em Santa Maria e Online"
     },
     {
@@ -97,7 +97,7 @@ const Services = () => {
               <h3 className="text-xl font-display text-psycho-dark mb-2">Agende sua primeira sessão</h3>
               <p className="text-psycho-text/80 mb-4">Dê o primeiro passo para o seu bem-estar emocional. A primeira consulta é uma conversa para conhecermos suas necessidades.</p>
               <button
-                onClick={() => window.open('https://wa.me/5599999999?text=Olá,%20gostaria%20de%20agendar%20minha%20primeira%20consulta!', '_blank')}
+                onClick={() => window.open('https://wa.me/55999481692?text=Olá,%20gostaria%20de%20agendar%20minha%20primeira%20consulta!', '_blank')}
                 className="text-psycho-main hover:text-psycho-dark transition-colors flex items-center"
               >
                 <span>Agendar agora</span>

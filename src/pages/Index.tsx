@@ -132,7 +132,7 @@ const Index = () => {
                   </div>
                   <div>
                     <h3 className="text-lg font-medium text-psycho-text mb-1">Endereço</h3>
-                    <p className="text-psycho-text/70">Rua dos Terapeutas, 789 - Centro<br />Santa Maria, RS - 97050-280</p>
+                    <p className="text-psycho-text/70">Centro<br />Santa Maria, RS - 97050-280</p>
                   </div>
                 </div>
                 
@@ -142,7 +142,7 @@ const Index = () => {
                   </div>
                   <div>
                     <h3 className="text-lg font-medium text-psycho-text mb-1">Telefone</h3>
-                    <p className="text-psycho-text/70">(55) 99999-8888</p>
+                    <p className="text-psycho-text/70">(55) 99948-1692</p>
                   </div>
                 </div>
                 
@@ -152,7 +152,7 @@ const Index = () => {
                   </div>
                   <div>
                     <h3 className="text-lg font-medium text-psycho-text mb-1">Email</h3>
-                    <p className="text-psycho-text/70">contato@nataliamichelena.com.br</p>
+                    <p className="text-psycho-text/70">psinataliamichelena@gmail.com</p>
                   </div>
                 </div>
               </div>
@@ -172,7 +172,7 @@ const Index = () => {
               <div className="space-y-4 mb-8">
                 <div className="flex justify-between pb-2 border-b border-psycho-main/20">
                   <span className="text-psycho-text font-medium">Segunda a Sexta</span>
-                  <span className="text-psycho-text/70">08:00 - 19:00</span>
+                  <span className="text-psycho-text/70">08:00 - 21:00</span>
                 </div>
                 <div className="flex justify-between pb-2 border-b border-psycho-main/20">
                   <span className="text-psycho-text font-medium">Sábado</span>
@@ -206,7 +206,7 @@ const Index = () => {
         <div className="container">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <div className="mb-4 md:mb-0">
-              <p className="text-white/80 text-sm">© 2023 Natalia Michelena - CRP 07/54321 - Psicóloga em Santa Maria - Terapia Psicanalítica</p>
+              <p className="text-white/80 text-sm">© 2025 Natalia Michelena - CRP 07/34334 - Psicóloga em Santa Maria - Terapia Psicanalítica</p>
             </div>
             <div className="flex gap-4">
               <a href="#" className="text-white/80 hover:text-white transition-colors">Política de Privacidade</a>

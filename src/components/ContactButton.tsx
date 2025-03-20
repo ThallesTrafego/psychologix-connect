@@ -17,7 +17,7 @@ const ContactButton = ({
   className,
   variant = 'primary',
   size = 'md',
-  number = '5599999999',
+  number = '55999481692',
   message = 'Olá, gostaria de agendar uma consulta!'
 }: ContactButtonProps) => {
   const variantStyles = {
