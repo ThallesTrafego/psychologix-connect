@@ -34,13 +34,13 @@ const About = () => {
               Sobre mim
             </span>
             <h2 className="text-3xl md:text-4xl font-display text-psycho-text mb-4">
-              Olá, sou Natália Michelena
+              Natália Michelena
             </h2>
             <p className="text-psycho-text/80 mb-4">
-              Psicóloga clínica formada pela Universidade Franciscana (UFN) de Santa Maria, desenvolvendo o atendimento de adultos e adolescentes.
+            Olá, sou Psicóloga formada pela Universidade Franciscana em 2021, com especialização em Psicologia Organizacional e Gestão de Pessoas pela PUCRS em 2023. Atualmente, curso mestrado em Psicologia com ênfase na saúde do trabalhador pela UFSM e me aprofundo na prática clínica por meio da pós-graduação em Clínica Psicanalítica pela UFN.
             </p>
             <p className="text-psycho-text/80 mb-6">
-              Minha abordagem é psicanalítica, focada na escuta atenta e no processo terapêutico personalizado. Acredito no potencial de cada pessoa para compreender suas questões internas e encontrar seu próprio caminho para o bem-estar emocional.
+            Na clínica, meu trabalho é guiado pela psicanálise, uma abordagem que busca compreender os processos inconscientes que influenciam nossos sentimentos, pensamentos e comportamentos. A escuta atenta e o espaço seguro da terapia possibilitam uma jornada de autoconhecimento, auxiliando no enfrentamento de questões emocionais, angústias e padrões repetitivos que impactam sua vida.
             </p>
             
             <div className="flex flex-wrap gap-4 mb-8">

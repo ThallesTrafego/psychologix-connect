@@ -46,13 +46,15 @@ const Index = () => {
         <div className="container relative z-10">
           <div className="max-w-3xl mx-auto text-center">
             <span className="inline-block px-3 py-1 bg-white text-psycho-main rounded-full text-sm font-medium mb-4 reveal animate-fade-in">
-              Psicóloga em Santa Maria • Terapia Psicanalítica • Atendimento Online
+              Psicóloga em Santa Maria • Abordagem Psicanalítica • Atendimento Online
             </span>
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-display text-psycho-text mb-6 reveal animate-slide-up">
-              Cuide da sua saúde mental com uma abordagem psicanalítica
+              Psicóloga presencial em Santa Maria/RS e online
             </h1>
             <p className="text-lg md:text-xl text-psycho-text/80 mb-8 reveal animate-slide-up" style={{ transitionDelay: '100ms' }}>
-              Um espaço seguro para seu autoconhecimento e crescimento pessoal. Atendimento psicológico psicanalítico presencial em Santa Maria e online para todo o Brasil.
+              Atendimento psicológico com abordagem em psicanálise, presencial em Santa Maria e online para todo o Brasil. 
+              Psicóloga e mestranda pela UFSM 
+              CRP 07/34334
             </p>
             <div className="flex flex-col sm:flex-row items-center justify-center gap-4 reveal animate-slide-up" style={{ transitionDelay: '200ms' }}>
               <ContactButton 
@@ -77,7 +79,7 @@ const Index = () => {
                   </svg>
                 </div>
                 <h3 className="text-lg font-medium text-psycho-text mb-1">Ambiente Seguro</h3>
-                <p className="text-sm text-psycho-text/70">Sigilo e ética profissional garantidos em todas as sessões.</p>
+                <p className="text-sm text-psycho-text/70">Trabalho realizado com sigilo e ética profissional.</p>
               </div>
               
               <div className="bg-white p-4 rounded-xl shadow-sm">
@@ -206,7 +208,7 @@ const Index = () => {
         <div className="container">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <div className="mb-4 md:mb-0">
-              <p className="text-white/80 text-sm">© 2025 Natalia Michelena - CRP 07/34334 - Psicóloga em Santa Maria - Terapia Psicanalítica</p>
+              <p className="text-white/80 text-sm">© 2025 Natalia Michelena - CRP 07/34334 - Psicóloga em Santa Maria/RS e Online</p>
             </div>
             <div className="flex gap-4">
               <a href="#" className="text-white/80 hover:text-white transition-colors">Política de Privacidade</a>

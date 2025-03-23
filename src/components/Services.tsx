@@ -27,13 +27,13 @@ const Services = () => {
 
   const services = [
     {
-      title: "Terapia Individual",
-      description: "Sessões personalizadas focadas em suas necessidades específicas, com abordagem integrativa.",
+      title: "Temática relacionada ao Trabalho",
+      description: "Sessões personalizadas focadas em suas necessidades específicas, focando na saúde mental no trabalho.",
       location: "Presencial em Santa Maria e Online"
     },
     {
-      title: "Terapia Psicanalítica",
-      description: "Abordagem focada na compreensão do inconsciente, emoções e padrões de comportamento.",
+      title: "Abordagem Psicanalítica",
+      description: "Focada na compreensão de processos inconscientes que influenciam nossos pensamentos, sentimentos e comportamentos.",
       location: "Presencial em Santa Maria e Online"
     },
     {
