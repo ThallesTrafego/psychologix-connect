@@ -162,7 +162,7 @@ const Index = () => {
                 variant="primary"
                 size="lg"
                 className="w-full sm:w-auto"
-                message="Olá Natalia, gostaria de agendar uma consulta para terapia psicanalítica!"
+                message="Olá Natália, gostaria de agendar uma consulta!"
               />
             </div>
             
@@ -193,7 +193,7 @@ const Index = () => {
                   text="Agendar primeira consulta" 
                   variant="secondary"
                   size="md"
-                  message="Olá Natalia, gostaria de agendar minha primeira consulta de terapia psicanalítica!"
+                  message="Olá Natália, gostaria de agendar minha primeira consulta!"
                 />
               </div>
             </div>
@@ -206,7 +206,7 @@ const Index = () => {
         <div className="container">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <div className="mb-4 md:mb-0">
-              <p className="text-white/80 text-sm">© 2025 Natalia Michelena - CRP 07/34334 - Psicóloga em Santa Maria/RS e Online</p>
+              <p className="text-white/80 text-sm">© 2025 Natália Michelena - CRP 07/34334 - Psicóloga em Santa Maria/RS e Online</p>
             </div>
             <div className="flex gap-4">
               <a href="#" className="text-white/80 hover:text-white transition-colors">Política de Privacidade</a>
