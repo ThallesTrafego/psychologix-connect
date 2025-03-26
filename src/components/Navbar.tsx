@@ -26,7 +26,7 @@ const Navbar = () => {
     >
       <div className="container flex items-center justify-between">
         <a href="#" className="text-xl md:text-2xl font-display text-psycho-dark font-medium">
-          Psicóloga Natália Michelena
+          Natália Michelena
         </a>
         
         <nav className="hidden md:flex items-center space-x-8">

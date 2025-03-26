@@ -37,10 +37,10 @@ const About = () => {
               Natália Michelena
             </h2>
             <p className="text-psycho-text/80 mb-4">
-            Olá, sou Psicóloga formada pela Universidade Franciscana em 2021, com especialização em Psicologia Organizacional e Gestão de Pessoas pela PUCRS em 2023. Atualmente, curso mestrado em Psicologia com ênfase na saúde do trabalhador pela UFSM e me aprofundo na prática clínica por meio da pós-graduação em Clínica Psicanalítica pela UFN.
+            Olá, sou Psicóloga formada pela Universidade Franciscana (UFN) e especializada em Psicologia Organizacional e Gestão de Pessoas pela PUCRS. Atualmente, curso mestrado em Psicologia na UFSM, com ênfase na saúde do trabalhador, e me aprofundo na prática clínica com pós-graduação em Clínica Psicanalítica.
             </p>
             <p className="text-psycho-text/80 mb-6">
-            Na clínica, meu trabalho é guiado pela psicanálise, uma abordagem que busca compreender os processos inconscientes que influenciam nossos sentimentos, pensamentos e comportamentos. A escuta atenta e o espaço seguro da terapia possibilitam uma jornada de autoconhecimento, auxiliando no enfrentamento de questões emocionais, angústias e padrões repetitivos que impactam sua vida.
+            Meu trabalho clínico é baseado na psicanálise, uma abordagem que ajuda a compreender os processos inconscientes que influenciam sentimentos, pensamentos e comportamentos. A escuta atenta e o espaço seguro da terapia possibilitam uma jornada de autoconhecimento, auxiliando no enfrentamento de questões emocionais, angústias e padrões repetitivos que impactam sua vida.
             </p>
             
             <div className="flex flex-wrap gap-4 mb-8">

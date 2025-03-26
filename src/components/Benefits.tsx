@@ -27,28 +27,28 @@ const Benefits = () => {
 
   const benefits = [
     {
-      title: "Autoconhecimento",
-      description: "Compreenda melhor seus pensamentos, emoções e comportamentos para tomar decisões mais conscientes."
+      title: "Um espaço para reflexão",
+      description: "Um ambiente acolhedor para pensar sobre suas vivências e elaborar seus sentimentos."
     },
     {
-      title: "Saúde Mental",
-      description: "Desenvolva habilidades para lidar com o estresse, ansiedade e outros desafios emocionais."
+      title: "Compreensão dos próprios padrões",
+      description: "Entendimento mais profundo sobre comportamentos e repetições na vida."
     },
     {
-      title: "Relacionamentos",
-      description: "Melhore a qualidade dos seus relacionamentos através de uma comunicação mais efetiva."
+      title: "Exploração do inconsciente",
+      description: "Investigação de aspectos inconscientes que influenciam sua maneira de ser."
     },
     {
-      title: "Crescimento Pessoal",
-      description: "Supere barreiras internas e potencialize seu crescimento pessoal e profissional."
+      title: "Escuta sem julgamentos",
+      description: "Um espaço livre para falar sobre qualquer assunto sem receio."
     },
     {
-      title: "Qualidade de Vida",
-      description: "Encontre maior equilíbrio e bem-estar em todas as áreas da sua vida."
+      title: "Autoconhecimento em construção",
+      description: "O processo de se conhecer mais a cada sessão, sem respostas prontas."
     },
     {
-      title: "Transformação",
-      description: "Transforme suas dificuldades em oportunidades de aprendizado e evolução."
+      title: " Acompanhamento no processo de subjetivação",
+      description: "Um suporte para construir e ressignificar sua própria história."
     }
   ];
 
@@ -60,7 +60,7 @@ const Benefits = () => {
             Benefícios
           </span>
           <h2 className="text-3xl md:text-4xl font-display text-psycho-text mb-4">
-            Por que fazer terapia?
+           O que a psicoterapia pode proporcionar?
           </h2>
           <p className="max-w-2xl mx-auto text-psycho-text/80">
             O acompanhamento psicológico oferece inúmeros benefícios para sua saúde mental e qualidade de vida.

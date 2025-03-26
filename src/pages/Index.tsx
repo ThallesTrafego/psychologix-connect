@@ -46,13 +46,13 @@ const Index = () => {
         <div className="container relative z-10">
           <div className="max-w-3xl mx-auto text-center">
             <span className="inline-block px-3 py-1 bg-white text-psycho-main rounded-full text-sm font-medium mb-4 reveal animate-fade-in">
-              Psicóloga em Santa Maria • Abordagem Psicanalítica • Atendimento Online
+              Psicóloga Clínica • Abordagem Psicanalítica • CRP 07/34334
             </span>
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-display text-psycho-text mb-6 reveal animate-slide-up">
               Psicóloga presencial em Santa Maria/RS e online
             </h1>
             <p className="text-lg md:text-xl text-psycho-text/80 mb-8 reveal animate-slide-up" style={{ transitionDelay: '100ms' }}>
-              Atendimento psicológico com abordagem em psicanálise, presencial em Santa Maria e online para todo o Brasil. 
+             Atendimento com abordagem psicanalítica, prezando pelo sigilo e acolhimento. 
               Psicóloga e mestranda pela UFSM 
               CRP 07/34334
             </p>
@@ -88,8 +88,8 @@ const Index = () => {
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 17h5l-1.405-1.405A2.032 2.032 0 0118 14.158V11a6.002 6.002 0 00-4-5.659V5a2 2 0 10-4 0v.341C7.67 6.165 6 8.388 6 11v3.159c0 .538-.214 1.055-.595 1.436L4 17h5m6 0v1a3 3 0 11-6 0v-1m6 0H9" />
                   </svg>
                 </div>
-                <h3 className="text-lg font-medium text-psycho-text mb-1">Atendimento Flexível</h3>
-                <p className="text-sm text-psycho-text/70">Opções presenciais e online para sua conveniência.</p>
+                <h3 className="text-lg font-medium text-psycho-text mb-1">Atendimento Presencial</h3>
+                <p className="text-sm text-psycho-text/70">Opção presencial para a cidade de Santa Maria/RS.</p>
               </div>
               
               <div className="bg-white p-4 rounded-xl shadow-sm">
@@ -98,8 +98,8 @@ const Index = () => {
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 8h2a2 2 0 012 2v6a2 2 0 01-2 2h-2v4l-4-4H9a1.994 1.994 0 01-1.414-.586m0 0L11 14h4a2 2 0 002-2V6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2v4l.586-.586z" />
                   </svg>
                 </div>
-                <h3 className="text-lg font-medium text-psycho-text mb-1">Abordagem Psicanalítica</h3>
-                <p className="text-sm text-psycho-text/70">Tratamento baseado na escuta atenta e no processo terapêutico personalizado.</p>
+                <h3 className="text-lg font-medium text-psycho-text mb-1">Atendimento Online</h3>
+                <p className="text-sm text-psycho-text/70"> Sessões realizadas com praticidade e acolhimento, onde você estiver.</p>
               </div>
             </div>
           </div>

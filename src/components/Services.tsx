@@ -27,23 +27,23 @@ const Services = () => {
 
   const services = [
     {
-      title: "Temática relacionada ao Trabalho",
-      description: "Sessões personalizadas focadas em suas necessidades específicas, focando na saúde mental no trabalho.",
+      title: "Adolescentes, adultos e idosos",
+      description: "Atendo  essas diferentes faixas etárias, respeitando as particularidades de cada momento da vida.",
       location: "Presencial em Santa Maria e Online"
     },
     {
-      title: "Abordagem Psicanalítica",
-      description: "Focada na compreensão de processos inconscientes que influenciam nossos pensamentos, sentimentos e comportamentos.",
+      title: "Saúde mental e trabalho",
+      description: "Minha experiência com saúde mental no contexto do trabalho permite auxiliar pessoas que enfrentam desafios profissionais.",
       location: "Presencial em Santa Maria e Online"
     },
     {
-      title: "Acompanhamento para Ansiedade",
-      description: "Tratamento especializado para transtornos de ansiedade, ataques de pânico e fobias.",
+      title: "Psicanálise como abordagem",
+      description: "Esse caminho pode ser valioso para quem deseja se aprofundar em questões internas, encontrar sentido em suas vivências e se compreender de forma mais ampla.",
       location: "Presencial em Santa Maria e Online"
     },
     {
-      title: "Terapia para Depressão",
-      description: "Suporte terapêutico para quadros depressivos, com foco na recuperação do bem-estar.",
+      title: "Um espaço para reflexão e autoconhecimento",
+      description: "A terapia não oferece respostas prontas, mas possibilita que você explore suas próprias questões com liberdade. entendendo as dinamicas que se repetem em sua vida.",
       location: "Presencial em Santa Maria e Online"
     }
   ];
@@ -56,10 +56,11 @@ const Services = () => {
             Serviços
           </span>
           <h2 className="text-3xl md:text-4xl font-display text-psycho-text mb-4">
-            Como posso ajudar você
+           Para quem é o meu trabalho?
           </h2>
           <p className="max-w-2xl mx-auto text-psycho-text/80">
-            Ofereço um espaço acolhedor e seguro para você explorar seus pensamentos, sentimentos e desafios.
+          Cada pessoa traz sua própria história, desafios e questões a serem exploradas. Meu trabalho se destina a quem busca um espaço de escuta e reflexão, independentemente da fase da vida ou da demanda específica.
+
           </p>
         </div>
         
