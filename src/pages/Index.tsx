@@ -122,7 +122,7 @@ const Index = () => {
                 Estou aqui para ajudar
               </h2>
               <p className="text-psycho-text/80 mb-8">
-                Entre em contato para agendar sua consulta ou esclarecer suas dúvidas. Para o atendimento não aceitamos plano de saúde. Formas de pagamento: PIX ou Cartão de crédito. 
+                Entre em contato para agendar sua consulta ou esclarecer suas dúvidas. Para o atendimento não aceitamos planos de saúde. 
               </p>
               
               <div className="space-y-6 mb-8">
