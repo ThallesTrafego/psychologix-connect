@@ -122,7 +122,8 @@ const Index = () => {
                 Estou aqui para ajudar
               </h2>
               <p className="text-psycho-text/80 mb-8">
-                Entre em contato para agendar sua consulta ou esclarecer suas dúvidas. Para o atendimento não aceitamos planos de saúde. 
+                Entre em contato para agendar sua consulta ou esclarecer suas dúvidas. 
+                Para o atendimento não aceitamos planos de saúde. 
               </p>
               
               <div className="space-y-6 mb-8">
@@ -187,7 +188,7 @@ const Index = () => {
               <div className="bg-white p-6 rounded-xl">
                 <h4 className="text-lg font-medium text-psycho-text mb-3">Primeira consulta</h4>
                 <p className="text-psycho-text/80 mb-4">
-                  A primeira consulta tem duração aproximada de 45 minutos e serve para iniciarmos o processo terapêutico psicanalítico, estabelecendo as bases para o tratamento.
+                  A primeira consulta tem duração aproximada de 50 minutos e serve para iniciarmos o processo terapêutico psicanalítico, estabelecendo as bases para o tratamento.
                 </p>
                 <ContactButton 
                   text="Agendar primeira consulta" 
