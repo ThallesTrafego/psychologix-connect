@@ -133,7 +133,7 @@ const Index = () => {
                   </div>
                   <div>
                     <h3 className="text-lg font-medium text-psycho-text mb-1">Endereço</h3>
-                    <p className="text-psycho-text/70">Centro<br />Santa Maria, RS - 97050-280</p>
+                    <p className="text-psycho-text/70">Centro<br />Santa Maria, RS - Rua Alberto Pasqualini, Nº70, Torre Ribas, Sala 911.</p>
                   </div>
                 </div>
                 
